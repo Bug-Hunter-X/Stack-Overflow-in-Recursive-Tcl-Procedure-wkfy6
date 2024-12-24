@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl: stack overflow due to uncontrolled recursion.  The `bug.tcl` file contains a recursive procedure that causes a stack overflow when called with a positive integer. The `bugSolution.tcl` file provides a corrected version.
